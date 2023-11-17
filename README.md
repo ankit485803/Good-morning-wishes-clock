@@ -5,7 +5,7 @@ This is my first file for GitHub repository.
 <br>
 Author - Ankit Kumar
 
-Good Morning Wishes Clock
+# Good Morning Wishes Clock
 Welcome to the Good Morning Wishes Clock project! 🌅⏰
 
 Introduction
